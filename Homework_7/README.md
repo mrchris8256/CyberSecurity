@@ -103,6 +103,11 @@ Don't forget to link the GPO to your GC Computers organizational unit.
 
 Hint: If you're confused about where to find the right policies, check the instructions in italics.
 
+        Hello_Chris
+
+
+![sorry phil](image/shell.com_2.png)
+
 
 Task 3: Create a GPO: Enabling Verbose PowerShell Logging and Transcription
 As mentioned in a previous lesson, PowerShell is often used as a living off the land hacker tool. This means:
